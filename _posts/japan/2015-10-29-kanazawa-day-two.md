@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Kanazawa - day two"
 subtitle:   ""
 date:       2015-10-29 22:00:00

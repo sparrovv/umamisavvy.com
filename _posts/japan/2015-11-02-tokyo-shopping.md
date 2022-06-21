@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Tokyo - Shopping"
 subtitle:   ""
 date:       2015-11-02 23:50:00

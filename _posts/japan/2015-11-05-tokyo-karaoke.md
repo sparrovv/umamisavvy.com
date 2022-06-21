@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Tokyo - Karaoke"
 subtitle:   ""
 date:       2015-11-05 22:50:00

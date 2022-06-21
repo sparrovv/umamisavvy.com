@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "I want to be an astronaut!"
 subtitle:   "Kennedy Space Centre"
 date:       2017-05-02 10:00:00

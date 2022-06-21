@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Tokyo - Tsukiji market"
 subtitle:   "Tuna auction"
 date:       2015-11-05 21:50:00

@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Dali Museum"
 subtitle:   ""
 date:       2017-05-05 10:00:00

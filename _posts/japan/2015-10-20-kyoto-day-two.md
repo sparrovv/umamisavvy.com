@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Kyoto - day two"
 subtitle:   "Kyoto - top attractions"
 date:       2015-10-20 22:01:00

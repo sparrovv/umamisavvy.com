@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "We have landed"
 subtitle:   ""
 date:       2015-10-18 18:50:00

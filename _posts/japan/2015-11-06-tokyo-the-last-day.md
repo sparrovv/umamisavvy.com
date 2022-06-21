@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Tokyo - last day"
 subtitle:   "chilling out"
 date:       2015-11-06 22:50:00

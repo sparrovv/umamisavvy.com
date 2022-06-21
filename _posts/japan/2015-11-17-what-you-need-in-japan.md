@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "What do you need in Japan"
 subtitle:   ""
 date:       2015-11-17 21:00

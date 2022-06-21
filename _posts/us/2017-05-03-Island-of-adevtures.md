@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Islands of Adventure"
 subtitle:   ""
 date:       2017-05-03 10:00:00

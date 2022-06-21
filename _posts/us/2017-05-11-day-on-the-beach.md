@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Day on the beach"
 subtitle:   ""
 date:       2017-05-11 10:00:00

@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Back to Tokyo"
 subtitle:   ""
 date:       2015-11-01 22:00:00

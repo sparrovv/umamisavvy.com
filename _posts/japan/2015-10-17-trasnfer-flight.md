@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Flight"
 subtitle:   "From London to Istanbul"
 date:       2015-10-17 23:00:00

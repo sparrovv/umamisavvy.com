@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "24 hours in Key West"
 subtitle:   ""
 date:       2017-05-08 10:00:00

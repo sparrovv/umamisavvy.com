@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Tokyo - Ghibli museum"
 subtitle:   ""
 date:       2015-11-03 22:50:00

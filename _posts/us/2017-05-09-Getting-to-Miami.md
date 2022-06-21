@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Getting to Miami"
 subtitle:   
 date:       2017-05-09 10:00:00

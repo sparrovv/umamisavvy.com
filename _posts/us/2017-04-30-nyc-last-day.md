@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Last day in NYC"
 subtitle:   "Brooklyn"
 date:       2017-04-30 10:00:00

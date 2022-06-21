@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Kyoto - day one"
 subtitle:   ""
 date:       2015-10-19 22:01:00

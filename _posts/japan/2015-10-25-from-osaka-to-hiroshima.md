@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Hiroshima"
 subtitle:   "City that raised from death"
 date:       2015-10-25 23:00:00

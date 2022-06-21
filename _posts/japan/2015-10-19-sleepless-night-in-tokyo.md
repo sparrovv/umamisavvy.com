@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Sleepless night in Tokyo"
 subtitle:   ""
 date:       2015-10-19 05:20:00

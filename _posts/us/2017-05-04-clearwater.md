@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Clearwater"
 subtitle:   "Day on the beach"
 date:       2017-05-04 10:00:00

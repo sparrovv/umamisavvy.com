@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "NYC interesting facts"
 subtitle:   ""
 date:       2017-05-7 10:00:00

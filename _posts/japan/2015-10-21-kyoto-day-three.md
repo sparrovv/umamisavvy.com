@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Kyoto - day three"
 subtitle:   "More attractions"
 date:       2015-10-21 23:01:00

@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Miami beach"
 subtitle:   Back on bikes
 date:       2017-05-10 10:00:00

@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Getting to Florida"
 subtitle:   "Orlando"
 date:       2017-05-01 10:00:00

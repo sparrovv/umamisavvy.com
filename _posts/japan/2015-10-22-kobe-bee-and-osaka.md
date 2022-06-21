@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Kobe and Osaka first impressions"
 subtitle:   "Kobe beef deliciousness"
 date:       2015-10-22 20:00:00

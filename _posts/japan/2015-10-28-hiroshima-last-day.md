@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "Last day in Hiroshima"
 subtitle:   "I don't like oysters"
 date:       2015-10-28 22:00:00

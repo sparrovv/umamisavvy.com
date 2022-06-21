@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Snorkeling in Key largo"
 subtitle:   ""
 date:       2017-05-07 10:00:00

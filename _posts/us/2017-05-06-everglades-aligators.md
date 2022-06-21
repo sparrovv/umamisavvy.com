@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   states
+tags:       states
 title:      "Everglades National Park"
 subtitle:   "Alligators"
 date:       2017-05-06 10:00:00

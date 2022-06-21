@@ -1,5 +1,7 @@
 ---
 layout:     post
+category:   japan
+tags:       japan
 title:      "And its time to go home"
 subtitle:   ""
 date:       2015-11-07 09:00
