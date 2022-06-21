@@ -3,8 +3,8 @@ title: umami savvy
 header-img: img/miyajima.jpg
 email:
 description: "Our first time in Japan."
-baseurl: ""
-url: "http://umamisavvy.com"
+baseurl: "/umamisavvy.com"
+url: "https://sparrovv.github.io"
 twitter_username:
 github_username:
 facebook_username:
