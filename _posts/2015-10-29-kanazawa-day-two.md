@@ -5,6 +5,7 @@ subtitle: ""
 date: 2015-10-29T22:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 Kanazawa is famous for its **Kenroku-en Gardens**. Ranked as one of the top three gardens in Japan definitely deserves its fame. Even though it was raining we had a really good time walking around that beautifully maintained area.

@@ -5,6 +5,7 @@ subtitle: ""
 date: 2017-05-13T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 It took us almost 2 days to come back to Krakow. Lesson learnt, never again.

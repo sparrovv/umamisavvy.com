@@ -5,6 +5,7 @@ subtitle: "City that raised from death"
 date: 2015-10-25T23:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 After our second shinkansen trip we arrived to **Hiroshima**. The city makes a very good first impression and it is so hard to imagine

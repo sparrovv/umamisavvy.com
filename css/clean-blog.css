@@ -226,6 +226,45 @@ hr.small {
   font-weight: 300;
   margin-bottom: 10px;
 }
+.header-destination-nav {
+  margin: 18px 0 0;
+  color: rgba(255, 255, 255, 0.78);
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  line-height: 1.4;
+}
+.header-destination-nav-title {
+  display: block;
+  margin: 0 0 6px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+.destination-nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 14px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.destination-nav-list a {
+  display: inline-block;
+  padding: 2px 0 4px;
+  border-bottom: 1px solid transparent;
+  color: rgba(255, 255, 255, 0.86);
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.destination-nav-list a:hover,
+.destination-nav-list a:focus,
+.destination-nav-list a[aria-current="page"] {
+  border-bottom-color: rgba(255, 255, 255, 0.82);
+  color: white;
+  text-decoration: none;
+}
 .post-preview > .post-meta {
   color: #808080;
   font-size: 18px;

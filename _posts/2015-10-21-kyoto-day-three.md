@@ -5,6 +5,7 @@ subtitle: "More attractions"
 date: 2015-10-21T23:01:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 We started the day with light breakfast and then headed towards near by buddhist temples Higashi Honganji and Nishi Honganji. Both are absolutely stunning from the outside as well as from the inside. They are also less crowded than places we saw before (or maybe it was because we got there quite early).

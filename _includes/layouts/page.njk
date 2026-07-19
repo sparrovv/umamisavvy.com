@@ -8,9 +8,14 @@ layout: base.njk
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading site-heading-big">
-                    <h1>{{ title }}</h1>
+                    <h1>{% if title %}{{ title }}{% else %}{{ metadata.title }}{% endif %}</h1>
                     <hr class="small">
+                    {% if description %}
                     <span class="subheading">{{ description }}</span>
+                    {% endif %}
+                    {% if showDestinationNav %}
+                    {% include "destination-nav.njk" %}
+                    {% endif %}
                 </div>
             </div>
         </div>

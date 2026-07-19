@@ -1,0 +1,18 @@
+---
+layout: page.njk
+pagination:
+  data: destinationPages
+  size: 1
+  alias: destination
+eleventyComputed:
+  title: "{{ destination.label }}"
+  description: "Travel posts from {{ destination.label }}"
+  permalink: "{{ destination.url }}"
+  activeDestination: "{{ destination.id }}"
+  showDestinationNav: true
+---
+
+{% set posts = collections.posts | destinationPosts(destination.id) %}
+{% for post in posts %}
+{% include "post-preview.njk" %}
+{% endfor %}

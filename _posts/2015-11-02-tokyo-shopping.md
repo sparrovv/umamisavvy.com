@@ -5,6 +5,7 @@ subtitle: ""
 date: 2015-11-02T23:50:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 It was pouring rain in Tokyo so we decided to do some shopping.

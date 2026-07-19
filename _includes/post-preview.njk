@@ -1,0 +1,16 @@
+<div class="post-preview">
+  <a href="{{ post.url }}">
+    <h2 class="post-title">{{ post.data.title }}</h2>
+    {% if post.data.subtitle %}
+    <h3 class="post-subtitle">{{ post.data.subtitle }}</h3>
+    {% endif %}
+  </a>
+  {% set postDestination = destinations[post.data.destination] %}
+  <p class="post-meta">
+    Posted by {% if post.data.author %}{{ post.data.author }}{% else %}{{
+    metadata.title }}{% endif %} on {{ post.date | postDate }}{% if
+    postDestination %} in <a href="{{ postDestination.url }}">{{ postDestination.label }}</a>{%
+    endif %}
+  </p>
+</div>
+<hr />

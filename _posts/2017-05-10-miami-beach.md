@@ -5,6 +5,7 @@ subtitle: Back on bikes
 date: 2017-05-10T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 Miami is the last stop on our USA trip. We didn't know much about it before coming here and what we knew was based on a TV series like Miami Vice from 80s and CSI: Miami :-)

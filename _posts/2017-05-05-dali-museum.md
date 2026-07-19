@@ -5,6 +5,7 @@ subtitle: ""
 date: 2017-05-05T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 Today was our last day in Clearwater. We've charged our batteries, so were ready to head out south.

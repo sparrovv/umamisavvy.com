@@ -1,6 +1,7 @@
 ---
 layout: page.njk
-description: "Our first time in Japan"
+description: "travel log"
+showDestinationNav: true
 pagination:
   data: collections.posts
   size: 15
@@ -8,19 +9,7 @@ pagination:
 ---
 
 {% for post in posts %}
-<div class="post-preview">
-  <a href="{{ post.url }}">
-    <h2 class="post-title">{{ post.data.title }}</h2>
-    {% if post.data.subtitle %}
-    <h3 class="post-subtitle">{{ post.data.subtitle }}</h3>
-    {% endif %}
-  </a>
-  <p class="post-meta">
-    Posted by {% if post.data.author %}{{ post.data.author }}{% else %}{{
-    metadata.title }}{% endif %} on {{ post.date | postDate }}
-  </p>
-</div>
-<hr />
+{% include "post-preview.njk" %}
 {% endfor %}
 
 <!-- Pager -->

@@ -5,6 +5,7 @@ subtitle: "Day on the beach"
 date: 2017-05-04T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 After two very active days we wanted to chill out, lay on a beach and read books for few hours.

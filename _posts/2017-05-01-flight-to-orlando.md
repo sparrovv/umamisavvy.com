@@ -5,6 +5,7 @@ subtitle: "Orlando"
 date: 2017-05-01T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 On Monday we woke up quite early as we had our flight to **Orlando**. Transfer to the airport went smoothly and (as always) we arrived 3h before the flight :D

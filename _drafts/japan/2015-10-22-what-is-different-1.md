@@ -5,6 +5,7 @@ subtitle: "Toilets and power lines"
 date: 2015-10-22T23:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 ### High-tech toilets

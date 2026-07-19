@@ -5,6 +5,7 @@ subtitle:   ""
 date: 2015-11-07T09:00:00.000Z
 author:     "M&A"
 header-img: ""
+destination: japan
 ---
 
 All good things come to an end, and so did our trip to Japan...

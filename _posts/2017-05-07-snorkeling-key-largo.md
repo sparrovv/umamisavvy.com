@@ -5,6 +5,7 @@ subtitle: ""
 date: 2017-05-07T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 Another place we visited was **Key Largo** a getaway to Florida Keys.

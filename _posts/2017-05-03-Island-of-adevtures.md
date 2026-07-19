@@ -5,6 +5,7 @@ subtitle: ""
 date: 2017-05-03T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 We woke up pretty early to get to **Islands of Adventure** (part of the Universal complex) as soon as the gates are open.

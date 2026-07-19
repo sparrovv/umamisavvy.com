@@ -5,6 +5,7 @@ subtitle:
 date: 2017-05-09T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 What we like the most in our holidays is that we are very relaxed and never in hurry. We don't really need to see everything and run from one attraction to another. We appreciate the time when we can just rest, read books and chill out. That is why we spent another morning reading by the pool in our hostel :-) We had to check out by 11 and the car could be on the paring until 13:30. During this remaining time I wanted to see The Key West Butterfly and Nature Conservatory. For some reason Michal was not that interested in butterflies so I went there alone.

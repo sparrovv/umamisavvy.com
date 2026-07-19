@@ -5,6 +5,7 @@ subtitle: "Brooklyn"
 date: 2017-04-30T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 So far we were only checking things out on Manhattan so to get a bit more perspective on how the rest of New York looks like we cycled to Brooklyn. We went through the Manhattan Bridge and had a stroll alongside the bay. What we have seen is a moderate hight buildings, slower pace, less noisy part of the city with an awesome views on Manhattan from the Brooklyn Park.

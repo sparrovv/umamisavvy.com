@@ -5,6 +5,7 @@ subtitle:   ""
 date: 2015-11-17T21:00:00.000Z
 author:     "M&A"
 header-img: ""
+destination: japan
 ---
 
 **JR pass** - is an inexpensive way for tourists to travel around Japan by rail. You need to order it before coming to Japan, as it's not available for sale in the country. We used it extensively and I can't imagine traveling without it. This is a good [article](http://www.japantravel.co.uk/japan-rail-pass.html) on how to get it.

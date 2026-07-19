@@ -5,6 +5,7 @@ subtitle: "the last one"
 date: 2017-05-11T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 As our holidays are slowly coming to an end, we want fully recharged our batteries and use as much sun as possible.

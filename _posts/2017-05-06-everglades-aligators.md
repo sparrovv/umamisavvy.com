@@ -5,6 +5,7 @@ subtitle: "Alligators"
 date: 2017-05-06T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 We've chosen our current accommodation to be in between the places we want to see in next two days. But to be honest the house is so awesome that we could just stay here and relax. We've met the owner and he gave us a tour through the house. It has 9 bedrooms and 7 bathrooms and was fully rebuilt and redecorated few years ago. There are some hidden rooms and passages here. One room is hidden behind huge mirror in the corridor. In the master bedroom there is a hidden staircase to the 3rd floor (you really need to move the right hanger in the closet to open the door!). Then you can get to a beautiful room from which you can watch the sunset.

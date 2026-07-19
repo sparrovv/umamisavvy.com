@@ -5,6 +5,7 @@ subtitle: "Kobe beef deliciousness"
 date: 2015-10-22T20:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 We checked out from our Kyoto apartment before 8am, and walked down to the station.

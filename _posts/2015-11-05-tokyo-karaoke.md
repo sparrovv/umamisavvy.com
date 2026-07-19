@@ -4,6 +4,7 @@ title: "Tokyo Karaoke"
 date: 2015-11-05T22:50:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 In the morning we went to Kappabashi street which is called the **Kitchen Town**. There are shops selling all restaurant equipment - wooden bento boxes, cutlery, [food replicas](http://www.japan-guide.com/e/e5933.html), etc. . We got there our garlic grater for 168 yens :-)

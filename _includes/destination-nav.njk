@@ -1,0 +1,10 @@
+<nav class="header-destination-nav" aria-label="Destinations">
+  <span class="header-destination-nav-title">Destinations</span>
+  <ul class="destination-nav-list">
+    {% for destinationId, navDestination in destinations %}
+    <li>
+      <a href="{{ navDestination.url }}"{% if activeDestination == destinationId %} aria-current="page"{% endif %}>{{ navDestination.label }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>

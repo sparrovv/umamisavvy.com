@@ -5,6 +5,7 @@ subtitle: "Kennedy Space Centre"
 date: 2017-05-02T10:00:00.000Z
 author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 In the original plan for Tuesday we planned to go to the Universal Studios Island of Adventures. But as the weather forecast predicted a rainy day we've decided to go to **Kennedy Space Centre** which is also the NASA facility.

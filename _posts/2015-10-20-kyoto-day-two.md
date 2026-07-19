@@ -5,6 +5,7 @@ subtitle: "Kyoto - top attractions"
 date: 2015-10-20T22:01:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 Today we had a very active day cycling between various tourist spots.

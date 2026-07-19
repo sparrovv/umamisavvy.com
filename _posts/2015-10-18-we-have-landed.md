@@ -5,6 +5,7 @@ subtitle: ""
 date: 2015-10-18T18:50:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 We made it! We have landed in one piece, actually in 2 :-) on the Narita Airport!

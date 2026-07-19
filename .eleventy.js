@@ -16,6 +16,10 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toRFC2822();
   });
 
+  eleventyConfig.addFilter("destinationPosts", (posts, destinationId) => {
+    return posts.filter(post => post.data.destination === destinationId);
+  });
+
   // Create a collection for posts
   eleventyConfig.addCollection("posts", function(collectionApi) {
     return collectionApi.getFilteredByGlob("_posts/*.md").reverse();

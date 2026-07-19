@@ -5,6 +5,7 @@ subtitle: ""
 date: 2015-10-19T05:20:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 We arrived at the Tokyo Station at 21:30. We didn't have any particular plans for the first night.

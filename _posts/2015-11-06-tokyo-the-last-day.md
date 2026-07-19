@@ -5,6 +5,7 @@ subtitle: "chilling out"
 date: 2015-11-06T22:50:00.000Z
 author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 For the last full day in Japan we were considering 2 things - staying in Tokyo and continue with sightseeing or going for a day trip to Nikko.

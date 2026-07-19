@@ -12,7 +12,8 @@ layout: base.njk
                     {% if subtitle %}
                     <h2 class="subheading">{{ subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted by {{ author }} on {{ page.date | postDate }}</span>
+                    {% set postDestination = destinations[destination] %}
+                    <span class="meta">Posted by {{ author }} on {{ page.date | postDate }}{% if postDestination %} in <a href="{{ postDestination.url }}">{{ postDestination.label }}</a>{% endif %}</span>
                 </div>
             </div>
         </div>
