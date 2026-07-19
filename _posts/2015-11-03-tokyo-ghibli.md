@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Tokyo - Ghibli museum"
-subtitle:   ""
-date:       2015-11-03 22:50:00
-author:     "M&A"
+layout: post.njk
+title: "Tokyo - Ghibli museum"
+subtitle: ""
+date: 2015-11-03T22:50:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 Since I was young boy I enjoyed anime movies. Animation has a power to unleash imagination and show things that can't be shown by the traditional movies.

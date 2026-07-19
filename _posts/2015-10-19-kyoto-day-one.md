@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Kyoto - day one"
-subtitle:   ""
-date:       2015-10-19 22:01:00
-author:     "M&A"
+layout: post.njk
+title: "Kyoto - day one"
+subtitle: ""
+date: 2015-10-19T22:01:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 As we were knackered after a sleepless night in Tokyo, we slept through our fist trip by Shinkansen from Tokyo to Kyoto.

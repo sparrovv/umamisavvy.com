@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Tokyo - Shopping"
-subtitle:   ""
-date:       2015-11-02 23:50:00
-author:     "M&A"
+layout: post.njk
+title: "Tokyo - Shopping"
+subtitle: ""
+date: 2015-11-02T23:50:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 It was pouring rain in Tokyo so we decided to do some shopping.

@@ -1,10 +1,11 @@
 ---
-layout:     post
+layout: post.njk
 title:      "And its time to go home"
 subtitle:   ""
-date:       2015-11-07 09:00
+date: 2015-11-07T09:00:00.000Z
 author:     "M&A"
 header-img: ""
+destination: japan
 ---
 
 All good things come to an end, and so did our trip to Japan...

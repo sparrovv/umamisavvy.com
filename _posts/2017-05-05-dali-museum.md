@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Dali Museum"
-subtitle:   ""
-date:       2017-05-05 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Dali Museum"
+subtitle: ""
+date: 2017-05-05T10:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 Today was our last day in Clearwater. We've charged our batteries, so were ready to head out south.
@@ -22,7 +23,6 @@ We didn't molest it ;-)
 
 ![](https://lh3.googleusercontent.com/p9gfKDeVqnsaMeCtooMp9t4y9Jvp8I911IKncM55NPt2mRzVVgk0fLm75DvssiDCA3IMnMmc8O4meaeVRlTxHsucw1dUzsTzll8Qdi8bsAMxVvcvqn25ZQ3DFEVLOrS-bmSX8hEgJ2SFBf5pbuopHbId8OREayACJxBSD375wjZaNESg3936NdJmzyBtvbkG6lFqAWRXxqkad-Kww-bb290R57DbRCCBKBoiCFicnOqpSTgzHwsoQvAnajSnB4j5MZN8hh9XwR8dqdwei_GpWKUShCYg6vBGGNz6UPxR7TZSN0CeXmHKttX6sZltlScEygLpN8i0XADI62Q8Nb2bHgJx6-P89c2xq_7-xJXMJLngLgxEulZk6rYTx-nem48g6s6omBa9MOsxvo2s8R3FwH9XlRU0LNEEJOygjcOZaq1aCClkKXswfC1Hru3aD4VijHgp30w5O1_5idG3ZMxi5rLlpiX8WYh28LG4xJDlNsyxBFiNVaHRcWMIa4oMaFnxxB5ImOWTaf5KzDQFFAGEd2oIGTESslH2Yk9ssrmkbBbdIkWBKhtgKQzWDqlGvoMtSLcHhkG5LKD5yEE2OVe8wYyjtDSjn0De4qSLwxq15VmAZnkKQG1bGcwYPWOA4rytobidbzTlQxLKL34fluwYzSzxvy9iRVLVhUsU16dgelw=w920-h517-no)
 
-
 The second place to visit was planed at the last minute and it was **The Dali Museum** in St. Petersburg.
 
 ![](https://lh3.googleusercontent.com/-UUJBervAP-44e28U8LGNo-HcWfS_EeFPWxOj6_Tu47RFoKitqdMZ1sCg81iPIGA3wkQF9ZLmvS1qax5SyCaX4klXwa5EFhMm-TQ_REy51RhgeKEr0n-VciZN8D4GOJd8Ibg19u0Alh0fSKwORnCGItwSuvXooo2LjHpp9JUkM7o3TzpVPw1epclKrtcdj-F2MU8BX-DQswlia3xPB4sRlS6BbPzvTAvuj1cCFHz4CBn33nWL--KGxD4gF-TmhTnd1b7IN7Crb7LgVqmg5Tf5gM8VfUZLiMBl2xi-1Pf7ClllM3HHbMTkBWsltrLPyUgepfZa6Zy1f3Q6pw9--eLwbdEg9MTWOZtKT85csnB5w3Uit_789OH5HwmIR-oiKV9LRp_wbx7iIuwyCI1YyxbQtsxiSDHn9FJPnXONnpRFUe7CzBRMZ3ss2wVcJp18ijySew1oIb0ekbyWWLCWnlcB_AwZ1GC-vebIvJ-2CCbRNR_-2vrdg49Sm3K3xRTQGiGrsU3z6mUcNSTwJ5wsvWGHelFm_n30uiTder_ZMdPTwHG4UCyvl717eYVMo20TMN7D5ewoOV3HE3axPsXvlgDwZ2DNLALvDVQuRtoRacsxstuxCFE-uRHhd6m-e2cjeNkiSLm-qFSBu5zCntdCvwEuF0QPsqCnsSfoJFV-qxuM4A=w920-h517-no)
@@ -33,7 +33,6 @@ The audio guide was included in the ticket but we were also lucky to take part i
 **[The Hallucinogenic Toreador](https://en.wikipedia.org/wiki/The_Hallucinogenic_Toreador)**
 
 ![](https://upload.wikimedia.org/wikipedia/en/c/cc/The_Hallucinogenic_Toreador.png)
-
 
 **[Gala Contemplating the Mediterranean Sea which at Twenty Meters Becomes the Portrait of Abraham Lincoln](https://en.wikipedia.org/wiki/Lincoln_in_Dalivision)**
 

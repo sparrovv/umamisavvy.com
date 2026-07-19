@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Sleepless night in Tokyo"
-subtitle:   ""
-date:       2015-10-19 05:20:00
-author:     "M&A"
+layout: post.njk
+title: "Sleepless night in Tokyo"
+subtitle: ""
+date: 2015-10-19T05:20:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 We arrived at the Tokyo Station at 21:30. We didn't have any particular plans for the first night.
@@ -25,6 +26,6 @@ We weren't in the mood for a party, so we went only for a beer to a place that s
 
 ![Kirin](https://lh3.googleusercontent.com/-ZnzPpGpkIOI/ViVv0NyBE0I/AAAAAAAAU1o/MMROQi1jP4Y/s800-Ic42/20151019_031713.jpg)
 
-After ~1 hour we started moving back towards Tokyo station to catch our early train to Kyoto. We took different route that time, and met a few  spiders.
+After ~1 hour we started moving back towards Tokyo station to catch our early train to Kyoto. We took different route that time, and met a few spiders.
 
 ![spiders](https://lh3.googleusercontent.com/-IFXFhgVFvyU/ViVv0JatXUI/AAAAAAAAU1o/0-k7a7uyYlo/s800-Ic42/20151019_042347.jpg)

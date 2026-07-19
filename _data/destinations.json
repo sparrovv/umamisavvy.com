@@ -1,0 +1,10 @@
+{
+  "japan": {
+    "label": "Japan",
+    "url": "/japan/"
+  },
+  "usa-east-coast": {
+    "label": "USA East Coast",
+    "url": "/usa-east-coast/"
+  }
+}

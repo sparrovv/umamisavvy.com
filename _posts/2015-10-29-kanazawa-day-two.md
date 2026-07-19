@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Kanazawa - day two"
-subtitle:   ""
-date:       2015-10-29 22:00:00
-author:     "M&A"
+layout: post.njk
+title: "Kanazawa - day two"
+subtitle: ""
+date: 2015-10-29T22:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 Kanazawa is famous for its **Kenroku-en Gardens**. Ranked as one of the top three gardens in Japan definitely deserves its fame. Even though it was raining we had a really good time walking around that beautifully maintained area.
@@ -35,7 +36,7 @@ As Kanazawa is on the Japan sea coast, it is famous from fresh sea food. There i
 
 ![market3](https://lh3.googleusercontent.com/-4t4pnLZPi_w/VjNGEme-30I/AAAAAAAAXdw/JTWSRBsInx4/s800-Ic42/20151030_115849%25257E2.jpg)
 
-With all the fresh fish available there are plenty of sushi restaurants. With small help of trip advisor we went to a very nice and affordable place. 50% of us was satisfied after the meal :-) Not that the sushi was bad, Agata just prefers maki sushi, that don't have so big chunks of fresh fish. 
+With all the fresh fish available there are plenty of sushi restaurants. With small help of trip advisor we went to a very nice and affordable place. 50% of us was satisfied after the meal :-) Not that the sushi was bad, Agata just prefers maki sushi, that don't have so big chunks of fresh fish.
 
 ![sushi](https://lh3.googleusercontent.com/-tqaaS2edxqo/VjMyPrUbVhI/AAAAAAAAXYs/dhNe_sS1Jjw/s800-Ic42/20151030_131139.jpg)
 

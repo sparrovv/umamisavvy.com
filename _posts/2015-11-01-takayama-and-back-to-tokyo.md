@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Back to Tokyo"
-subtitle:   ""
-date:       2015-11-01 22:00:00
-author:     "M&A"
+layout: post.njk
+title: "Back to Tokyo"
+subtitle: ""
+date: 2015-11-01T22:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 Takayama is definitely what we were expecting - traditional, cosy, mountain town. As the day was very sunny everything looked even better than yesterday. We were exploring a busy streets of the old town where there are plenty of restaurants and souvenirs shops.

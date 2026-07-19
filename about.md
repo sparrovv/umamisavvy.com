@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: page.njk
 title: "About"
-description: "So that we don't forget"
-header-img: "img/miyajima.jpg"
+description: "This is what we do."
+header-img: "img/about-bg.jpg"
 ---
 
-Things we saw and have learnt during the trip to Japan. Written down so we don't forget.
+This is our travel blog. We write about our adventures.

@@ -1,11 +1,13 @@
 ---
-layout:     post
-title:      "Snorkeling in Key largo"
-subtitle:   ""
-date:       2017-05-07 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Snorkeling in Key largo"
+subtitle: ""
+date: 2017-05-07T10:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
+
 Another place we visited was **Key Largo** a getaway to Florida Keys.
 
 ![](https://lh3.googleusercontent.com/hDakZWKedhA2Zz-4f59YWeXYq5kLNYs13SpKcCGB2E71hzKy2mORG_D4CkKOAYE3_di7VTz2g1gZANY0OBKlbrY4m-0PSwPvMMBnO3xqRuY8Q-vbBaTXkYq0Hxvj3LJ-X0zdu_Qn-G3guY2-eoMy2T6CNL6pZAKXfHiTGnvv8DuyVnDBv5j-JLVltc-LuTYsVdYgdtKBc4i9A6DLD_tT5S3X78ffwe_euOzPp89PDe-xZcLyFHopveDiWqDwRlNWAyWTcxNj39xwaAfUTzcAmXTumFoRHnRcOIPjqbIL3pUTaLoGnpXiO95sAPl1fAQGOXjxQzbjrmKaYgjgh5RbmTjYBuFeYFGiXvWQUwrI26UbP1wsmjEsaFYn_ZpCZ3cgxZhuImimhJDFaqIivnIaUUeykxi-CpBTx9JR5bDpWIeYyWj6UCMQWzedJGLajOEHbLyqCZJB4XUSKnQaw-fe7Kvz88dWRSigtPKHy0SvQliDdxGrxfvr2hb-c82dCK-ykKPoHxmaFLvTdwl3L5ruESR7KqshoVpKD_gEPzpFpGhfLYQxGgPOIItnCLQrnZ96SRzLrvq8TQb24ZlMjMl1N4fAn3nEwaeEleJECdsS4NaZxfSo8zXgS2mXrx_La-WTfQn493j-UnLlYp53KeiSK19F4z-12lvRYaalO0s5bYQ=w429-h346-no)
@@ -23,7 +25,6 @@ This was the first time we really saw the benefits of having water resistance Go
 ![](https://lh3.googleusercontent.com/KmdhOpY7iVjTh5wxHOdgSwaFZUuR0CiUTouLl2v5ijvFZ0IoAFS8GuuV20wLslzwOB4OVnKV0CdB4DtNSiC6dm7yr13mXTrs_EZiG_Zz5IdVfdIA6wj5dCEl5Ml1Hf4A8k78hZDIqJiMJeOZ0rqUWEhqtwr82FONdeHs86qeVsfLNV9Jy1Inp5XTSgrk3dqrvh-X_EpP_h18ldkPrH7X6zZWYPv59mjBXkct0FOS-mW3ylX2Fa8OL1_waW8LooVHWec76EaX0DkqkUEzs9_P895ACycHgJbA7ckZDIDPDGerv5ID0Os01nmbRivj1Xz2hHYe-YGqrhZu2vOYIkXP3yfll6059pdjFElPpC03ZqDqL0Cf4HKWJeFcQAbSWowB-Z1s6RYXmoRk4rviLOC95k3T8QYwDAuOHz54bLajmn6DJEAK3Ssdlt43eiWSKcPlkYkM4l1aha9Gl1bkYPpkSMpQKIXUAhPU_f3F1WfCnLXYXy1vI1bE_af8BjrSaDHis7B7EEoGkkNxOoAugKzLFTbvMOW8vLkf1Do_mjrADZM3unc3HP8qXOp_0CrhsTb9aCKERrXETpklF7wDiyA0PxjRXT9y-7T_NAdXPLv4wn-lOju_PE_zRtHwQmD5P62VShpvoyI_1w3wSkSxrD7zo1lC7fscJ7Pud2RNijZ74aQ=w1040-h780-no)
 
 ![](https://lh3.googleusercontent.com/Y-B28lJr-NBS_C2V1LSbBr9UivLTvHMm2vnXLBr_R6ZBKAzmwMG1kP1cOpc4gzKe9iRp7s9Okky-2Ocw0-_OCKwnl-S4E8dCn9SVP_eGZ15PP_56lubYyXZKj6QTOnnXOrcFNmcULbc5KRLOe3r19e91oV2C6G9gzduBTv7vunU0yMgoVSU5FpkWmlSt7VD--plwy_s5Aei1zptFQNztciYZTZp7viht0vU8TDol2GtotUxmWvuPqy7w6bZs4FJ81kEX9peW3rufeFLgHCcqqiXlQIe3CdSTH9l_N-dDoPJNuztkhpW5nDA5fvoMcvAWIbzXqCkwOIjHNJM6ttiQLaD1PIcJYrLqLsrZM40qB2SCkbTManpihEz8T8LzVlg1gvcPC7P2qCj0a1Vv-ecuGVFZCDX-uwQ_vgYoZQBIjcCDY5f5ZnLPxfkG8zDEHdh4YYkDCcTW96q8ScycBKRXPazWSWXuzHpAhj_9ZyUFmF4W27gCoQbU4VafGj7RbvK9zWW2_jp6iK2wfMe6GOHv-qvFdntNoCUKP0hWvMJ8YIQTGXOS46w7mEUDHDhj1_-0znBMrAwGh7HTkDvhNTIL6urvyK1W6n0gZyrgdgDCSPHJVnBaN4Jxge0gl8prlKQiOcAUSz1ujvpm_CSrT4yw8E5Toa4G17NLVPBfwMopAxc=w1040-h780-no)
-
 
 Agata instead snorkeling went for a glass-bottom boat trip:
 

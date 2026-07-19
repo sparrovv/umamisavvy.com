@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      "Tokyo - Karaoke"
-subtitle:   ""
-date:       2015-11-05 22:50:00
-author:     "M&A"
+layout: post
+title: "Tokyo Karaoke"
+date: 2015-11-05T22:50:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 In the morning we went to Kappabashi street which is called the **Kitchen Town**. There are shops selling all restaurant equipment - wooden bento boxes, cutlery, [food replicas](http://www.japan-guide.com/e/e5933.html), etc. . We got there our garlic grater for 168 yens :-)
@@ -56,8 +56,5 @@ On the way to a train station we strolled by the **Tokyo Tower** which is a comm
 Tokyo is ready for Christmas - all around the city you can see Christmas decorations.
 
 ![](https://lh3.googleusercontent.com/-TNjrcIbWdHY/VjtsqikQWOI/AAAAAAAAZGU/kRpKx4Ttd_0/s800-Ic42/20151105_193121.jpg)
-
-
-
 
 ---

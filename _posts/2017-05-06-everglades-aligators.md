@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Everglades National Park"
-subtitle:   "Alligators"
-date:       2017-05-06 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Everglades National Park"
+subtitle: "Alligators"
+date: 2017-05-06T10:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 We've chosen our current accommodation to be in between the places we want to see in next two days. But to be honest the house is so awesome that we could just stay here and relax. We've met the owner and he gave us a tour through the house. It has 9 bedrooms and 7 bathrooms and was fully rebuilt and redecorated few years ago. There are some hidden rooms and passages here. One room is hidden behind huge mirror in the corridor. In the master bedroom there is a hidden staircase to the 3rd floor (you really need to move the right hanger in the closet to open the door!). Then you can get to a beautiful room from which you can watch the sunset.
@@ -35,7 +36,7 @@ The ride was great and we were lucky to see 3 alligators :-)
 
 ![](https://lh3.googleusercontent.com/D30-GulZDx74xAcvebLnyllfxwqK6spi23OJP1qkVd-19eusq-LpaC7LFqMB21pLCDKmo29tqLOcQMByRJkyy6lw1gNbw5UKFP5P1OyE7HNzyOkqE2ZdSmxxLPXW_Cx49CYqr7RpBvx5tXR6jM22QEDEwIMJ9ezURQ8Y1a8CAas7bIXn-LK1SWjYXwxBp2C-NMFnMgjDbtO5G98H1M9eHB83INKgn9lbJfz3UGmsDhWMQYiaLV14SJQbypteUf-wLllNjNvYKU4pHWPgbYH1QLyMQtDRtdNJ-mTr9y_I1XhT91UrIa_8L09VM5oAd2iA2VjqRVtNfex2nhZj3NBAVziszBLCL8a-6rsAnuuaAZr71Qvz2kJuJpuM9wGBAgh4to0wSsXuSvCK3soKXQ9iZwT99tsXWPv6nbbTmBgZicZkiB0xJwCvQtpdoSJeIEsimxUeOiOpYzVxI8RmrGb0E6W5ykxxybmFWZXnBgDt8gGUsvdKmkq-0-cconKW1SJVWGEtOZ0lQnxip4f5Rf5xJNUg31gyysQgPIJJei7-3l7IT-EG_IvXpEfnp0Ium_FlwEgXsq4CS46K0-0FHXHSQ0oEBeA_Gqe7_fYbo6Z6oC9bcdrZN46thy-PPW-IIpC3c-HzHd5L8oTrqsaiJFdpa2nOzz1ReNJttAvE0v8SBfE=w920-h517-no)
 
-The 'wild-life show' was very informative. The guy who was conducting it was really passionate about wild animals and their behaviours.  We've learnt what is the difference between an alligator and a crocodile. It was surprising how much more dangerous crocodiles are, and that they don't have a tongue :-)
+The 'wild-life show' was very informative. The guy who was conducting it was really passionate about wild animals and their behaviours. We've learnt what is the difference between an alligator and a crocodile. It was surprising how much more dangerous crocodiles are, and that they don't have a tongue :-)
 
 ![croc-vs-gator](https://s-media-cache-ak0.pinimg.com/736x/66/fe/a1/66fea1ed934c2253f1ba43a53c50a1b2.jpg)
 

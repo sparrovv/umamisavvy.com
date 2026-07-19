@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "I want to be an astronaut!"
-subtitle:   "Kennedy Space Centre"
-date:       2017-05-02 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "I want to be an astronaut!"
+subtitle: "Kennedy Space Centre"
+date: 2017-05-02T10:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 In the original plan for Tuesday we planned to go to the Universal Studios Island of Adventures. But as the weather forecast predicted a rainy day we've decided to go to **Kennedy Space Centre** which is also the NASA facility.
@@ -17,11 +18,11 @@ First off we went to see the "Heroes and legends" building, and from the start u
 
 ![](https://lh3.googleusercontent.com/2bkFfhQbJhcUExEjHG_MWmZvrfLZjW10AwLSS5u_hlshV-RLnjZkqUPRNtCXZezXXNqL0awHyJaV6Arp-KYJ2MuEiVoRDJE5__N0PXAXLGfNbX60wHWDo9BOXwftDl2B_g_weSsuAMh-pl-MP4rttKJZC3Z62YasjnDiepsFKt64neJN18WBv78UVgYilAAzhB4tw4JtMamNjbMPm1JfLd8nuSr9tlopbZQg9rEUhZTdvofgq1lvPz0pjz2vowG6X2ZCsm8jcSsFBz7OaaIYCrZUG8CFt3q8Ijs8rsrbnI-KU2DoK2RxRGQvjbwPBLGrj026D34PFsPTD3WrYnbbklDr0KDnY1xhxlYGJHd46kUufgCDJf0Bw0feXJO9l5tXo5dp77HuvCWVg8YzFzeNNEkygWBJVq_jTS6VE6BofKTeZbQaEtKMnfF_mlnGvyn0LYhyZaejawr4xng6C6Cb9YO4Xh5V1FeYFBXt9-O-z7NOCQsEOxvfqtGBlpf3pKN-qlO5zJQ01WlEv4p4Z5Ez8eL0Npn6NLlcB4ahcX2-_BHmsuSWQi8j8aa-h5n5QkSSbVo5c-CSstYUrNcqH_sNhqJKN6ALloy34yY9p6WNR2h9-U9yBPIuPoq2A5tA-kiwbkezDvXcMMJi-BpZxvk6-SvpxuZ1VZNj71RHcFghzP4=w1309-h736-no)
 
-Next up we got to the bus tour around the whole complex that goes through the most important places: Vehicle assembly building (the tallest one-storey building in the world), two existing launch pads, rocket crawler and the SpaceX buildings.  We could also see some nature and wild live: alligators, turtles, bold eagle.
+Next up we got to the bus tour around the whole complex that goes through the most important places: Vehicle assembly building (the tallest one-storey building in the world), two existing launch pads, rocket crawler and the SpaceX buildings. We could also see some nature and wild live: alligators, turtles, bold eagle.
 
 ![](https://lh3.googleusercontent.com/OucpTBXp9I4hATvHyPzbPAMkRczzNXh7OfRyDfEcKm2uGClpFjt7HnrnbqjnaHIuP7HXPinKUv6yHTw0AnaA3jhMiUjltnuzWp5lHEONxQ4TJP1u68BIFD9agmPVkp_RIH3roZowxtGXFgvN7LAvxIldVRZ6CbyHV2IpcBgtS6DRWv3ymEFJ5awNQVHOJRhWQrj5fZd8V4ekWLk3HihVM38bsh8UmspL9aZ6nqHsd3sSTlMj8Q3SYOSxGZP_p10aYk4jP3cx8vmH-KvWQAdIv2L2nY06LnxPawuesDb9elL8htxZz6tcUSFyUnmAJ3lFBeTf81UY2LkyFc2c6LeLGZwyygSoL0uKEF5lQn5dFBSXIEO9h8rxEke02XEIfg3tsJ5jjaYWeEXQXM7gb86sbQe-8cHoRVoVLhcXJMC11J6v9u2iTu8ER7hkFMXx40Nsde3Qyy7Q-Ori_GP7cYZSEgsPJb7aNN2N-R0_HFqEi3VHWUFYJtCMD0575ZQLVR3AC-BgyQ8SKMZZ7H_tjlfzNz4oGNkPCQBQaUomtQGQEkRxErcORJNMOyvQ6_SbzAFa9boLZV9-y-NokAEE-9EiR9myChQW6t-fs4GfWAULBiNPcyAiwZRF7l4N_HmOFjxIXPXTXR05NkTtII7bAOs1u3dkjwpOTWGGPL5Kh5AGcdE=w1309-h736-no)
 
-The last stop on the bus tour was *Apollo Saturn centre*. It's dedicated completely to the Apollo program and shows the story of how the first human got to the moon. In total there were 17 missions, from which the one that got to the moon first was Apollo 11 (20/7/1969). The program's goal was to reach the moon before 1970, so in that case it was a success. Although one of the biggest failures of the program was Apollo 1. Just before the official launch, during the rehearsal test, the fire broke out in the cabin which resulted in the death of 3 astronauts. That has delayed the whole program, but it also had a positive impact in a sense that they upped the safety systems so this kind of disasters won't happen again.
+The last stop on the bus tour was _Apollo Saturn centre_. It's dedicated completely to the Apollo program and shows the story of how the first human got to the moon. In total there were 17 missions, from which the one that got to the moon first was Apollo 11 (20/7/1969). The program's goal was to reach the moon before 1970, so in that case it was a success. Although one of the biggest failures of the program was Apollo 1. Just before the official launch, during the rehearsal test, the fire broke out in the cabin which resulted in the death of 3 astronauts. That has delayed the whole program, but it also had a positive impact in a sense that they upped the safety systems so this kind of disasters won't happen again.
 In the centre there was Apollo 7, and we hugely admired the show on how the the space capsule landed on the moon.
 
 ![](https://lh3.googleusercontent.com/zzqTuFVA6WU3IG8xG9aPHLhVh21g5KphjOA9SpnP4J1Kwbd10F9q7WySvRgazi-yBvzvKw3rpJoPE_0Oitck7tvxDA0ZkB111FfmsJb1fTTha0OzDxKyV2GiL9OkvhTtgQW9hsL7v5Zc2DKSakwq9CpbIyu414Z-rw4nGUSACmptTASWP-G7jSE99bOn5FqGJ34SpjBOkpTqoGnFfEpuOmKwQSAuWnsbnP7-BAht8qNBQhaQ1ItOiLiXtK7OTIcTeDOT9B0geZoAZApt3jHMSEEyGTdegdG82k5-QVbCXsKJnFSQf3BwDU90OceQturjNkg1_4pd-1Hk0-kwIHAJjwRRHckHuFjIkVO88cGzP6B7D0JxkiPTFvaiP0F4djHBCMpg5YpsYjNxCbH8_7q7_lwLI17myWXN4WiOOskougd67Uu13-SI2WmFowp0k8U8ifUZIJ3YVlN-UCmfKpF7K9eyQ68IuYEFD8DlXp6O57o1lj8JuNT9TxM0pfQMIXGE5tCBG3gM81RluBJ03GuN-MiCNFnAIQa5PQW3W6N6_RYdG0QhjxD_9AABpKZ4Bx5LLhBNdjDWRfBKG4wD12orSuwp7wK6xszj4ic2F2YeUimoV-oB2WzDphROxRyLiLwQ0ChOp9guYpZJ6tiM-qJqWG6PHUtZjyXEYsR9lEuIz1A=w1432-h736-no)
@@ -34,16 +35,16 @@ Interesting Facts:
 
 ![](https://lh3.googleusercontent.com/-HyAr6ntLfp8Dw0iMA1gLKtmkpDWK9KE0v8cyX765OUfIKnRa9HbU9JMHHIJ1G_A6pxr8KpWTBGj8dWJxnBVmYX-kcz4Zalcunh8jaFCOHlkBPTp7jz9okHBgCPdZH8Oj1xTQ6JWkaurypfM2-dhf_LaSvQbVtv44duElG9b_GjmxJY3g9Xe9e8pUHXwvaFvaNc2UIM5p43NMZR1CnJJDZ3H2C4xao-SL0WQ_-GWz3Ga_KXAuaHOqMQNpa2Si3kJJQlftB6S9qS1R4AHNMunP9Yf2_eSQVtoXdNafpYv8E2S3vpW1xNud-z4Td3n9b4FgwHDJSbsfWEZrfKSvbnpmI_jQgXTGOk6NfJXDQcYxuPgbHijReuzvsDGlVb-Tm-qvBFDCNUzJ5cZcioVPoPVJeJ0m1gBT4XxkRe_6VNvjL3oxIMjiTFaB2FkK4MjPbwg8Y5546TdFzwdRCLmN5l7djrncpxVgqdO47-_oWQ-PxlVrxlp7CGgSEaVZ7cvoSbbbwGM03FhtCWPmpiHWZrFetCtGLBBT34Fe28DOsj2inQJgOY1UU9F3Tyib-a1vUOClUHaxOBhfTbUokonfVE70kOJ9knMaeVtlb7HQNMHknEDJfRbtzIxPU6S_I8C2V2CLhbb4vKIepqDiV8wWrQ708kYPvmbw5U2iGZ7DvF7G1E=w593-h737-no)
 
-*Space shuttle Atlantis Centre* - After the Apollo program the next big challenge for NASA was to come up with a way on how to create a spaceship that can go to space and come back, so it can be reuse in the next missions. That's how the Space shuttle program started in 1972, and with the first shuttle going into space in 1981. The only part of the shuttle that is not re-used after the start is the external fuel tank, all other parts: side engines and the shuttle itself is reused. What's interesting shuttle on the way back to earth will glide down and have only one chance to land.
+_Space shuttle Atlantis Centre_ - After the Apollo program the next big challenge for NASA was to come up with a way on how to create a spaceship that can go to space and come back, so it can be reuse in the next missions. That's how the Space shuttle program started in 1972, and with the first shuttle going into space in 1981. The only part of the shuttle that is not re-used after the start is the external fuel tank, all other parts: side engines and the shuttle itself is reused. What's interesting shuttle on the way back to earth will glide down and have only one chance to land.
 There were plenty of information about the shuttle missions, but the top attractions were the Atlantis shuttle itself, and the shuttle's start simulation.
 
 ![](https://lh3.googleusercontent.com/RV1wyUuUlgXfMlUrQTKZWJkdtLbkbHdAac537AYsEu5mrOtmoPIMSMXHBgQ1DmttrOuzFJPULZBLeosouvnH05DWxXSIx01k1MF-8AvZ7MCDPPZxgE43haISW1fJHCHNdKYO0vwy6KG5LPYz65-3fC8N4uY5tE4tgu9DjMtWr6MFJTqtbwtr7KNTrYI2Suj5xFXdvhMBdJsEE-PM6ioxoR5tAH2E1TQrRjuaShrSWv4K5_egxuh0U1-NuUn2r2NTcCkH-9umLWpN1NU-Uo5sDtlshVq7gsx6PPKHioL-eRp0E4LgN30vQAWjKNM9hS6YqQzu0uoVPOSDAVRH0RADLZVkNh1CyAAE-EepyItGoPJc8K04zbTc5TQLA2AflT7193uo0tIsCbc3Efxcaq77aLCATGgGqtNAMl3gz-rjiGFvBb8I7aXOLrNRAvxPXuGzeaUuq4LQcqM38lVpxilNMyNSF3pPGJjT1c9_OnyyzgClZbVAk-zZw-d-hKLEnZLsJCM8EtmzKXaKPd8UxDBUERp5cI774gGpXukmoA1KP4JfFUCpbfPCdPvtkl54zpQL8gnu2r9BWCY9Htr4o30L6PhADY2xa-XR0mSwFAiObMNXJD7A2ptMJf76uVUUgymGuL_rz5mV1Ku7Pa4Ka-DiZFR-B7HbyZE6TwjVIFIG8ps=w1309-h736-no)
 
 The last stop on our trip were two IMax films:
 
-- *A Beautiful Planet* - showing earth from the ISS (international space station) - and sharing many amazing views from the station. One I think is the best is the view of [lightnings](https://www.youtube.com/watch?v=eY3OD0OhLLg).
+- _A Beautiful Planet_ - showing earth from the ISS (international space station) - and sharing many amazing views from the station. One I think is the best is the view of [lightnings](https://www.youtube.com/watch?v=eY3OD0OhLLg).
 
-- *Journey to space* - story of what is ahead of NASA - Deep space exploration and missions to Mars with the new Orion rockets. It's estimated that in 2030s a man will make a step on Mars!!!
+- _Journey to space_ - story of what is ahead of NASA - Deep space exploration and missions to Mars with the new Orion rockets. It's estimated that in 2030s a man will make a step on Mars!!!
 
 ![](https://lh3.googleusercontent.com/8jutCLfkzSzy295SGkdAhDSU47kGFAFfFiiqQZ5tKLgyv7wd2TmTXkaZ374F26XK8T7aFheKS0vnfRXV9C9BOx_swieG3tzQyROMSbbX-c9wpMZKAnYI-gidXwD4p1MEqTNQncmagrF2AES0DecVfx8LmiPRNhz2CZ5VNyPIabHKwA_UMvSqwqTup50XJ4GxTO7FtUmnIYC76K-2rri_AxjejBtF9HcoUws-1r6KuQ16IxELSXUWpkyOGfYgKp9Cy6GZLRCeGxvEtthmRH91d2EJOIZ61Cg4MSsXrOpjLt4L4L0XFTHTbhVLGHda3aAp2dz3HZ_FTLMJ3FdCzcfSC1Ca93Memvxl1_L2qgCAzu1kgF7Yaw_jTwNTQPVSAwAUU2k_nrYXH75JiPsU2BQzEOvtP4w-0Hdva8SY0Uve8rF91ysLOQQhD4Az82dFEtfTxbJgqqLFUqco3ViXAJ9SsaK2bzTZ2U6cqxj4zBSiAkEmfEdlFSOZEyjXAhSyjGjuXf5cGs_DHZQcFfY6MIB3nIepfCjOCMqcxiM7-A2kFCWo_92knNd_MiIOErYzQ1B2SB6hlczjIm-7TWesh7-FSc93t-ZnO7NGsq9susaBF2WdXVF2ScjDPsV5EkRIFdgJdnELF_RBTGjeiDlcSA6g-2LsJlb-DDogpafR2SjAySE=w1309-h736-no)
 

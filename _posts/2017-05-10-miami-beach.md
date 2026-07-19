@@ -1,11 +1,13 @@
 ---
-layout:     post
-title:      "Miami beach"
-subtitle:   Back on bikes
-date:       2017-05-10 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Miami beach"
+subtitle: Back on bikes
+date: 2017-05-10T10:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
+
 Miami is the last stop on our USA trip. We didn't know much about it before coming here and what we knew was based on a TV series like Miami Vice from 80s and CSI: Miami :-)
 
 As we weren't prepared we started from the obvious, we went down to the beach in **Miami Beach** (which is a separate city). The only plan we had for Miami was that we wanted to rent CityBikes again. We've learnt pretty quickly that this system works here differently then in NYC. First of all is much more expensive - $24 per bike for 24 hours. But once you have a bike you don't need to change it every 30 minutes. After short consideration and trying a public transport first, we rented the bikes for one day.

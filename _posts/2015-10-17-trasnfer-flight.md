@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Flight"
-subtitle:   "From London to Istanbul"
-date:       2015-10-17 23:00:00
-author:     "M&A"
+layout: post.njk
+title: "Flight"
+subtitle: "From London to Istanbul"
+date: 2015-10-17T23:00:00.000Z
+author: "M&A"
 header-img: ""
+destination: japan
 ---
 
 It's almost midnight. We just landed in Istanbul and now waiting for our flight to Tokyo.

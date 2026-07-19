@@ -1,10 +1,11 @@
 ---
-layout:     post
+layout: post.njk
 title:      "NYC interesting facts"
 subtitle:   ""
 date:       2017-05-7 10:00:00
 author:     "M&A"
 header-img: ""
+destination: usa-east-coast
 ---
 
 Many building that have more than 6 stories have **water tanks** on the roofs. This is the way how the water is getting into the apartments.
