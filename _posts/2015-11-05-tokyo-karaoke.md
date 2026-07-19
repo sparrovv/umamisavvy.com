@@ -1,9 +1,8 @@
 ---
-layout:     post
-title:      "Tokyo - Karaoke"
-subtitle:   ""
-date:       2015-11-05 22:50:00
-author:     "M&A"
+layout: post
+title: "Tokyo Karaoke"
+date: 2015-11-05T22:50:00.000Z
+author: "M&A"
 header-img: ""
 ---
 
@@ -56,8 +55,5 @@ On the way to a train station we strolled by the **Tokyo Tower** which is a comm
 Tokyo is ready for Christmas - all around the city you can see Christmas decorations.
 
 ![](https://lh3.googleusercontent.com/-TNjrcIbWdHY/VjtsqikQWOI/AAAAAAAAZGU/kRpKx4Ttd_0/s800-Ic42/20151105_193121.jpg)
-
-
-
 
 ---

@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Day on the beach"
-subtitle:   "the last one"
-date:       2017-05-11 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Day on the beach"
+subtitle: "the last one"
+date: 2017-05-11T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

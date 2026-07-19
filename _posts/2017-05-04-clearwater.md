@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Clearwater"
-subtitle:   "Day on the beach"
-date:       2017-05-04 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Clearwater"
+subtitle: "Day on the beach"
+date: 2017-05-04T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

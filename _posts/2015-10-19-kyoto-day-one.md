@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Kyoto - day one"
-subtitle:   ""
-date:       2015-10-19 22:01:00
-author:     "M&A"
+layout: post.njk
+title: "Kyoto - day one"
+subtitle: ""
+date: 2015-10-19T22:01:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

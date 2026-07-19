@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Tokyo - last day"
-subtitle:   "chilling out"
-date:       2015-11-06 22:50:00
-author:     "M&A"
+layout: post.njk
+title: "Tokyo - last day"
+subtitle: "chilling out"
+date: 2015-11-06T22:50:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

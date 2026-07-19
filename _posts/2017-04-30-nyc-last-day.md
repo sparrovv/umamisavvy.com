@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Last day in NYC"
-subtitle:   "Brooklyn"
-date:       2017-04-30 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Last day in NYC"
+subtitle: "Brooklyn"
+date: 2017-04-30T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

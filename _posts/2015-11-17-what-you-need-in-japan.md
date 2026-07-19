@@ -1,8 +1,8 @@
 ---
-layout:     post
+layout: post.njk
 title:      "What do you need in Japan"
 subtitle:   ""
-date:       2015-11-17 21:00
+date: 2015-11-17T21:00:00.000Z
 author:     "M&A"
 header-img: ""
 ---

@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Back to Tokyo"
-subtitle:   ""
-date:       2015-11-01 22:00:00
-author:     "M&A"
+layout: post.njk
+title: "Back to Tokyo"
+subtitle: ""
+date: 2015-11-01T22:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Tokyo - Tsukiji market"
-subtitle:   "Tuna auction"
-date:       2015-11-05 21:50:00
-author:     "M&A"
+layout: post.njk
+title: "Tokyo - Tsukiji market"
+subtitle: "Tuna auction"
+date: 2015-11-05T21:50:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

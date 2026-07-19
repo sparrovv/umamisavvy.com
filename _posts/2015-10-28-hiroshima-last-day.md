@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Last day in Hiroshima"
-subtitle:   "I don't like oysters"
-date:       2015-10-28 22:00:00
-author:     "M&A"
+layout: post.njk
+title: "Last day in Hiroshima"
+subtitle: "I don't like oysters"
+date: 2015-10-28T22:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

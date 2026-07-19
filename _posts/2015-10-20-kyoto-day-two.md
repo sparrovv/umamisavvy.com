@@ -1,12 +1,11 @@
 ---
-layout:     post
-title:      "Kyoto - day two"
-subtitle:   "Kyoto - top attractions"
-date:       2015-10-20 22:01:00
-author:     "M&A"
+layout: post.njk
+title: "Kyoto - day two"
+subtitle: "Kyoto - top attractions"
+date: 2015-10-20T22:01:00.000Z
+author: "M&A"
 header-img: ""
 ---
-
 
 Today we had a very active day cycling between various tourist spots.
 The weather was absolutely amazing - warm (26C) and sunny. That, plus beautiful colors of autumn, gave a picturesque scenario for a sightseeing.
@@ -32,7 +31,6 @@ Entrance to **Chion-in** temple - we didn't have time to visit the temple itself
 **Fushimi Inari-taisha** - This place is known from the tori gates route. It's about 4km of walk that took us about 1.5h.
 
 ![](https://lh3.googleusercontent.com/-GR74JVXG7HY/VibK_rfh6KI/AAAAAAAAVF8/YmSMwAU5c9k/s800-Ic42/20151020_155807.jpg)
-
 
 Even though those places are very impressive the bit we enjoyed the most was cycling between them.
 Going through narrow streets of the city, where every corner is different and astonishing, gave us an idea how life of Kyoto residents looks like.

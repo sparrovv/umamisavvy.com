@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "What's different? #2"
-subtitle:   "Vending machines and surgical masks"
-date:       2015-10-22 23:00:00
-author:     "M&A"
+layout: post.njk
+title: "What's different? #2"
+subtitle: "Vending machines and surgical masks"
+date: 2015-10-22T23:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 
@@ -12,7 +12,6 @@ header-img: ""
 They are abundant. You can find them almost on every corner, at temples, bus stops, train stations, everywhere. They mainly contain beverages, and very rarely you can spot one with cigarets or ice-creams.
 
 At the front of the the vending machine you have a panel with the display of all items. One thing that surprised me was that the machine also serves warm beverages. When you select a coffee, you will get a hot one. The price of the items oscillates between 100 and 160 yen.
-
 
 ### Surgical masks
 

@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "24 hours in Key West"
-subtitle:   ""
-date:       2017-05-08 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "24 hours in Key West"
+subtitle: ""
+date: 2017-05-08T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

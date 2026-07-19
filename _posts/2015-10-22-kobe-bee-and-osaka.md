@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Kobe and Osaka first impressions"
-subtitle:   "Kobe beef deliciousness"
-date:       2015-10-22 20:00:00
-author:     "M&A"
+layout: post.njk
+title: "Kobe and Osaka first impressions"
+subtitle: "Kobe beef deliciousness"
+date: 2015-10-22T20:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "USA - here we come"
-subtitle:   "Is it really so big? (that's what she said)"
-date:       2017-04-26 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "USA - here we come"
+subtitle: "Is it really so big? (that's what she said)"
+date: 2017-04-26T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

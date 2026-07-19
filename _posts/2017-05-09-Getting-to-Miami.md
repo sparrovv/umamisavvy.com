@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Getting to Miami"
-subtitle:   
-date:       2017-05-09 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Getting to Miami"
+subtitle:
+date: 2017-05-09T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

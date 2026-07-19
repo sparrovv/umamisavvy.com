@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Planetarium"
-subtitle:   ""
-date:       2017-05-12 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Planetarium"
+subtitle: ""
+date: 2017-05-12T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 

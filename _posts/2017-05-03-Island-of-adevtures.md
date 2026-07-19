@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Islands of Adventure"
-subtitle:   ""
-date:       2017-05-03 10:00:00
-author:     "M&A"
+layout: post.njk
+title: "Islands of Adventure"
+subtitle: ""
+date: 2017-05-03T10:00:00.000Z
+author: "M&A"
 header-img: ""
 ---
 
@@ -15,34 +15,34 @@ It will be hard to describe what we had experienced as it was truly amazing and 
 
 The park is combined of several 'islands' and each of those 'islands' has a theme and an some related attractions. Knowing that the queues to top attractions can reach 60 minutes we've started from them.
 
-The first was the fastest and most crazy roller coaster in the park - *The Incredible Hulk*. We didn't really know what to expect, but we were super excited. Once they buckled us up and everything was good to go, we instantly reached a high speed and were shot up, then instant drop, a fall, loop, corkscrew ... sigh, it was so fast that we couldn't process what was happening.
+The first was the fastest and most crazy roller coaster in the park - _The Incredible Hulk_. We didn't really know what to expect, but we were super excited. Once they buckled us up and everything was good to go, we instantly reached a high speed and were shot up, then instant drop, a fall, loop, corkscrew ... sigh, it was so fast that we couldn't process what was happening.
 After leaving the trolley we could barely walk and to be honest we were a bit disappointed. I'm sure many people like the speed and the thrill of constant falling down, but for us it was too much - we'd prefer something slower.
 
 ![](https://lh3.googleusercontent.com/dTN0Xx__mN97Agpz8D89qrTGovtak1J2XK5gv9vy5G7_efAWzPjPizGJrE-J9i0i6sTo3oPNWBh_k6wHDf1h2hg2LVvDqEbOEy-znfJYl5vbHo4nVU4aGoCK3iR_w4RJFDJJM8MI2X3J5KqyJVq5XMl0rmhR266_Wp30Oim9OXf464d42KJUciTxu8h_xhA4co19ULOUjATCBYON5rIKhL-aN-WVNO9FnnMuEJWDu72RKLon3kGonSMNOR46J1lfhqZ2l9KuABjBJY3-bc_JCwlz7599-2sriGrOhF9GYGpxjKjKlixcXI48xK2DE568xxujEmfu3ZbD8LLOuuK35ONy_5XkDmt5issh9pN7X3PnfyYnB2AREbGcoKsNSNsfMvzhbkS1x2XVWe6IaGV2hUDACrdmSrxb15rAMRyLErS9nSYW_XiPEvcWzO3asAz3cJs54YfvaqkZRV0a24UQW-vZt0PfT_KH6OhetS7SQ2DbLArzdSRoAfSX4I6yLvZrCiGb3_7sgX526vLN2sDcncnwr2vLZCZbrMdOtMuFTHG3xwPFRRUzFUYbBpjNhtOB0t_5vvhYi1g4ORFcqSyQNlfz5M9VkF2NixOfzt51mtusz0zysQUhLFxPtg9USMgHcmf0_4Q4gIMPVXBWZLRwBYMDtpwQAnI1Sviw0JpVLPQ=w1309-h736-no)
 
-Next up was *Harry Potter and the Forbidden Journey* ride. It's impossible to describe, we were not expecting this kind of interactive and fun ride. We were very lucky and went there twice without queuing :D
+Next up was _Harry Potter and the Forbidden Journey_ ride. It's impossible to describe, we were not expecting this kind of interactive and fun ride. We were very lucky and went there twice without queuing :D
 
 ![](https://lh3.googleusercontent.com/3ViM_gtpsE2WIuXlC9obnVel6CoefMwQrS0Z_hjD876pcvsSVJq-dDDWteDVOKu-XtmAlkLrBCMnRn7B7gLYiZV1MT-AxCQEFkCono4eQSF1rcnlfVUgwoCot303G3w36vdKuYU-jeecYrxrFQBJEjJz5PkLt4XJ26KEyeqL1wGUHrS_Jbo7fzgb6sQEIl6CTmsGBe7pXnTEJGcXcai4yKwgx2aAGip57z0nyq3Tp5g-TpcD6FLlQLfy1KFXgCIKZ52mJrPACZY_L1a42bYmBBEGV3GpnC5-EThE8mvbGQ3q0Hv6SUVc_SLu3Xh0cKbPqkXLcPaN9C7FUC1MKZ3-I_CAek0_Rkba1DB-6gG2IZZg1EWjZBjS3Lv4aUcozwjJlJK6uVbgavAingfQ4ho2-EDBz81QH0CnTGTuoPEnnR7S19XXC032DknQHjSUZmQQV6DK5ACmm_5vdzzJeezj4rX88ixcBRcBbo5Vq5YBucpVQrcNyKnNfw1QiIWY17QRlAdXLJGH8qO4Fhk8qM3UeKeVsxEbIPc8tNaOK74vpo532aCzRTv8S4_iEcq7mw2rzTwsQ03Av5YbQ34PS1AIaeYz6WqW3mZQ-qbwghIbeRhKx77JZ8ifOrC3N22yKEYHKt2r3MGZNrkEjdLlCEDcFXOIMfOhEBUZ0eh8gSpsk9M=w1309-h736-no)
 
 ![](https://lh3.googleusercontent.com/Rq9MT-UXrmRflvlIUzBNo_bcP1PLMGcYAAC6mUht1QrpV5NDBeldaZ2qpuH0NUILNj167oGglRH7RFpHjgvV_O7koR1w-c6OexiOn1o6COhSCiGW6cH6eIctyj3vfB5BSMkTY-4YA7spKc8BP6WaSH05A4hGZnA8R888i2suWxJUSGGxKeaMU6OwVfy7L2Vor70_5_ea3h6J8iHoAe_8ChNDnxYciohSlKb26S-o9_EvP1_aq6bb6fVCs2HKJ4zKpRrywieBkVXLJOL3v_fmynQ1ErQpdXSe-vhD1jF3vFW30an989K939fQ0WEOnYguPCT7om2ppWy51Ki4v76c2QQmwfISIhXZ7GSAJL4ZdK4zV324sJ_R5ZBN0KBl4Cti94NP901HrjJdt3EzeYYKcXCPAazNDNcphuZwoQpP4lU_wdZlnluOYuHWltyvDf2zn_Fg7-sr0RIbM73No3r5ONzAFdVxVZms4NjyU3-hoksbAVMQpiNE5lUVh9IwxCUryIm628lx8nkSYh68Ut_K-j3iN0-MSAIwhfQWgAKr_V5M0CUI3w8dyr1wigfHfOWli9sHQa0_4zmduO1l54NDyxN2J7f3G7ky1_aZ7wP3Y-Exb9rnAj4LxpimUWL4NQ6eN07KShm0esWdv1kYNVjJFeqcPNLv0JtKUw_sPdWFjsg=w1309-h736-no)
 
-*Jurassic Park River Adventure* - it's a water ride through a Jurassic Park that ends up with a 26m drop during which the boat reaches 80km/h
+_Jurassic Park River Adventure_ - it's a water ride through a Jurassic Park that ends up with a 26m drop during which the boat reaches 80km/h
 
 ![](https://lh3.googleusercontent.com/-Id3KzGfipIBE5xQyYHnaCDGgmEpqLMz_babXKxz7N87bonqRVCebd_qAx5V1zpdNM0Fzlqz36rEmZJGF4km51ctuIxEE4NbYynUqutjwkmxCDB3wvGYkSdqaaDTbzdGnHzWjPrVN8niLQxJ6GQSZZwA4yUoM0IcnmI2HrvECCIoCBvVlhqmW_fY8OroZJlL5xFU4df0p8CwDksiPSDN2ceDB_GA88WyLlm2MAKZotlFmSw5OpLSgj5rndnA78iebQgmUaQKtxTwjQEdKWrQt7CgD7OCn2ghUhEMx5RAWT2NqsyrCjRms-fDiI3SobJJ75Ysfd8XXOh3imZ8YZElCNMGj2r27iSOEiMhgFc7JaWVrjFuNEJKh0DRX-K8GTIpE1dXd23SWcZqjmlWVpGw-lk3zHlmlImUU7l29uq-GYq1h8kFoLUZqUs4V3CD5-yhgdtxW7Oh8Cm81VpxnkmnbnBPeqfR6vy__20cMb_Ar5iN4rPurlIUBR5ZZcu63p_CTr5aTYoiTVVjXQiRwAQnT9xoKN4py_UjqXZRXg9ENsOt_zdNKoL89WMEAxVeSvtH4-JVGmOmNgJrlUZablae-0wvJGshTIAJDxXpOy-N5-uTZKqNBoLuCNymHGt4A-TzOu0uqQq56NgcymfiW7UZ3wut_y26Qm9u-HKmv0qcK68=w1309-h736-no)
 
-*Skull Island - Reign of Kong*  - unfortunately we've spent 70 minutes in the queue to get there but it was lots of fun after all. We entered an expedition truck and were in the middle of Kong fighting with dinosaurs and other scary creatures.
+_Skull Island - Reign of Kong_ - unfortunately we've spent 70 minutes in the queue to get there but it was lots of fun after all. We entered an expedition truck and were in the middle of Kong fighting with dinosaurs and other scary creatures.
 
 ![](https://lh3.googleusercontent.com/7zqzNWEB1hlUa5ygh1wpjge5UQbFwvSebFoPzRUFpTRrnqI0RDvw8kxtCnCrXXMfonVE08QbsZ5lTu5LQuQCB8I5tQ1UBJ5Xw3GK2TI1ZfnTIuRKM4N7Y7Z5wACx7HFj0pwcNyyMdqEss_eDaJHMWHoR4qiRMMV9bH2GHzqYNWcLaEgsiS_yOPAjq58Mj9d-7NEizFnCYWQE0_EMk8FPSKBMlWeRHrHx62f76HnUZWMVwiY0Ua3QWqeYbhMgNwEk6A6P3cCRP6fL0bpOkopxCud2S9H9IQOL6Th06U8-yTWdtDtCIIPLKNGM0bGUgHAMCmZ1-ElRdWj7WetKEgXv2owrtiERe6gdKSp0yrMdPIud67C2nR0WdJXxSIhT73nR8BIB2a640qwJby9qXIGqBCoopGKRYbNHYQCKitAVqlKyCsgrj2rlAiZFPzYqgLvJwCJJbJrrGarNTOhILJESG_P7nUAnBOkO_WUoZeWyiWepIN_bcRjZe6YN2Z2sxtD18V8EHwKCZ8kaa3qyO0VAEP_eHuGsRivWIQhxOsZAwzsvyxlCuad6KLSGIfPLQnXh5Rftn2owmV1V1kE4AjjCIhQdQeP9MlGDD2bKCbIaVAVn6qaJSTimiHuM9Kjxjdad92Y1BNowbCZxMbl7UHpIrIxYPKFa1GA21SwzWh55XrY=w1309-h736-no)
 
 ![](https://lh3.googleusercontent.com/dDOR0KKNnli8jM87joMMD3Dv_vL5qs8PUT5jUXwziZ42eVgpHNkkTqe1PAHfXpBbLXF34iaHtaOoKg2HkCPafpZBblIUa9_5Y4WjclD2eUO4h30ABarp13VMJo9Iu4u3eAA8VgNnV_KdOrOq4X8-cTrYOINhm07Mhg08pvT364FBvWNst7JeHSB6gLMpd7BUEN0NbVedImUgfWlTtctw9w5vnXWGAKz7hZmYSIaMIp4wqLwKIk4cZ9rRXMDUl26kPfh3j4mAq0pnTuW6eKOcUg6-_MB01SJ2tMZ-Uyfu-kYmVHPGQonoLKfohEde-CC5kOZ6dQG3-9EqCBXBFVHgmtGpiEob1iNz-1Q0s48IuK5KFvjvXzx6KmaTm074XCGPO3_FmpkK8ZsqI9SGlb3MFj9pSyNxJ2WDb7dyEWBlAOBHCLN0u-tCKZPhkSxjCml8Lu3pv2ViQcjzrP9CwdFPML9pln6wD6_p2AZczBKCzjQu8Shyxn581O2PA7Wq7kgylovNhuKmrrODeElYcjc0gMNxq9ti0BX42-ReW3L5pqwHZBb7rULd6mw07Oac_-0SN3hjOm9iJu4bDo4ucNhRe6KwkeWKyBKHdW0fiV5tEaD1_kDbkIHcp4pU_3V-6GHkxnNmVRvqAXgBypPHB0LXZFj3d5uEAHprjplOML_1c8Q=w1309-h736-no)
 
-*Dudley Do-Right's Ripsaw Falls* - the fall at the end of the ride was really high and exciting.
+_Dudley Do-Right's Ripsaw Falls_ - the fall at the end of the ride was really high and exciting.
 
 ![](https://lh3.googleusercontent.com/Ik-_9kCppH1jer865C_ijGhdGznWB6ixGMY1joLJgo4ckhudIwPDk_D3QmmJYLgUzNh3C9zFP6mWD8cwDsvATBuiOsYsYFoa8P7-pp8fxKMV2SIMrm1CDxgui5FExhCfxNihup94NCpCWPSqDEvh3uhP7upHAgMUYLk0b1ckZzCK-ybnd0nDlYBNK3rBJteHDxd2dxmiGG5PVcW4QBnXXz2ledRUHfevgYcXdvW9U6fmjlfvtee_QYcAvwN1tyqmd4mR4lSer8aAO7PQYMJyV3jysWk6Bq_HA9DU-Pl8U1Ga9-WmjZ8LHA37dt-B_cTnOffj8W6M-Lk4seMZCcURBX3ieLsD8UOqVANZSEgP5bTg4u6iOTlQDUdtPQWeFSKzHCzuVyQIIw_IQMKcyqy_W8brtT1Ykkyw4yvpqBb8fJMGY-Kop8Cm-WRj1IB69a_1OpTYJfgirKBBcvN3E3Y9nYabbUKMaztmBZk2R3iFYUtOIbmRmmIZQgF9EN7BkFgScaC83HE1huYncAolC7PwZWwWVlN0kEi9oVK7PfE85lNZuMMaGbPDtFJS3DlDrM4c_z-nLzPEAlgHh2ZmGQKrc4E7w2eGCuCmMDKj6--g4inwmszN7B4KIgDMCI3xELjmhKaAVDOC2qyqHzTMLAgWkgA4s7uxnegpbCAJcEsqhik=w1309-h736-no)
 
-*The Amazing Adventure of Spider-Man* - after the Harry Potter ride, second the best attraction in the park.
+_The Amazing Adventure of Spider-Man_ - after the Harry Potter ride, second the best attraction in the park.
 
-*Popeye & Bluto's Bilge-Rat Barges* - looked very innocent, but we ended up soaked to the last layer and had to dry on the sun for the next hour :)
+_Popeye & Bluto's Bilge-Rat Barges_ - looked very innocent, but we ended up soaked to the last layer and had to dry on the sun for the next hour :)
 
 ![](https://lh3.googleusercontent.com/enqAt5Z96yBdSDmzNZNp48J4QKnxMoS4VS7cXLuoxm2ANGpJP3hyH8vMmdv-9-kwZVzyQGBAoMCcw0U9NJAOFXemhgdYWY-gEA6jnWURxt35EoK_Qhphr_YuWFkuMT7PHc6w4kRiL808YlZC1TKR1hz_nHvrN3KP9YQYeBJzJEdb7DNcrV-6uX2jy-4r0Cu0Tm8L7KIXSz6OsZT7BXSpdWbWfPWwcIxRNN4DwndRKFZ6dvWYeCjVjCUOiRgXOMRJatd7Fxj4xXVNc-EEKwcM_N1Dw9ipdrFRjbRPWOP6jQIbePrwzBFuwxjpIAQGeI0MsCieXCmZmgLBqrYuy-t1HuWkDsQKRubXEAXrbGP_Ty5IxFTXZlnnVFD0_OrQPODQ2S7VXCjqFDvpA6HndxTgbTTVO3mv9tCBGl8qVpgqPAXY99_s-IDK5bbs4rsCPdOgXuxEzt1uhWZyT_OrH5Td_p29pwZ-VXNvSW7CJ_68vZSOa9yh3CU_EAu5Sk7vQGC2-hp1sT2uDlcVcPL9uM9OJQTQmI4HB-d48Qhw3ZbGP_3f2n8c_ryAeQbovX3QbTHIU3kDv__cuaVHPqd_xjapogpnRGwe-Mr_LllvoXy7gT3FMpwpH-u_yQhx6UVXq6EvJTi5G_6ZfCjqCJZI3EJ_iXOF1_bEa-h1GoE6mSdFtvQ=w1309-h736-no)
 
