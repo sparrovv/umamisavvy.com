@@ -38,22 +38,25 @@ Destination labels and URLs are configured in `_data/destinations.json`. Destina
 
 ## Deployment
 
-The site can be deployed to Cloudflare Pages.
+The site is deployed via Cloudflare Workers Builds (git-connected), which builds and
+deploys with Wrangler rather than classic Cloudflare Pages.
 
-Recommended Cloudflare Pages settings:
+Dashboard settings:
 
 ```text
-Framework preset: Eleventy
 Build command: npm run build
-Build output directory: _site
+Deploy command: npx wrangler deploy
 Root directory: /
 ```
 
-For direct upload with Wrangler:
+`wrangler deploy` reads `wrangler.jsonc`, which points at `_site` as static assets
+(no server-side Worker code runs).
+
+To deploy manually:
 
 ```bash
 npm run build
-npx wrangler pages deploy _site --project-name=<cloudflare-pages-project-name>
+npx wrangler deploy
 ```
 
 ## Assets

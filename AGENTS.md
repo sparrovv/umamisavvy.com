@@ -4,11 +4,13 @@ Instructions for agents working in this repository.
 
 ## Project Overview
 
-This is an Eleventy static travel blog for `umamisavvy.com`, deployed on Cloudflare Pages.
+This is an Eleventy static travel blog for `umamisavvy.com`, deployed via Cloudflare
+Workers Builds (git-connected), which builds and deploys with Wrangler rather than
+classic Cloudflare Pages.
 
 - Source content lives in `_posts/`, `_drafts/`, root page templates, `_includes/`, `_data/`, `css/`, `js/`, `img/`, and `fonts/`.
 - Eleventy writes the generated site to `_site/`.
-- Cloudflare Pages should build with `npm run build` and publish `_site`.
+- Cloudflare builds with `npm run build`, then deploys with `npx wrangler deploy`, which reads `wrangler.jsonc` and publishes `_site` as static assets.
 - The project still contains legacy Clean Blog/Jekyll-era files; do not remove or modernize them unless the task specifically requires it.
 
 ## Commands
@@ -52,18 +54,22 @@ destination: japan
 - If editing theme styles, keep related changes synchronized with `less/clean-blog.less` when applicable.
 - Static assets are passed through from `css`, `js`, `img`, and `fonts` in `.eleventy.js`.
 
-## Cloudflare Pages
+## Cloudflare Deployment
 
 Use these deployment assumptions unless the user says otherwise:
 
 ```text
-Framework preset: Eleventy
 Build command: npm run build
-Build output directory: _site
+Deploy command: npx wrangler deploy
 Root directory: /
 ```
 
-Do not add Cloudflare-specific runtime code, Workers, server-side behavior, or environment-variable dependencies unless explicitly requested. This site should remain statically generated.
+`wrangler.jsonc` at the repo root configures the Worker (`name`, `compatibility_date`)
+and points `assets.directory` at `_site`.
+
+Do not add Cloudflare-specific runtime code, server-side Worker logic, or
+environment-variable dependencies unless explicitly requested. This site should
+remain statically generated — the Worker only serves static assets.
 
 ## Verification
 
