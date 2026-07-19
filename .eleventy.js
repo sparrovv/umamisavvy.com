@@ -37,6 +37,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Ignore directories
+  eleventyConfig.ignores.add("AGENTS.md");
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("_drafts/**");
   eleventyConfig.ignores.add("_old_layouts/**");
