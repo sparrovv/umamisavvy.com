@@ -1,20 +1,67 @@
 # umamisavvy.com
 
-## How to run it?
+Travel log built with [Eleventy](https://www.11ty.dev/).
 
-jekyll server --watch
+## Development
 
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to keep the Apache 2.0 license intact, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
+Install dependencies:
 
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
+```bash
+npm ci
+```
 
-## Tips
+Run a local development server:
 
-### Images
+```bash
+npm run serve
+```
 
-- header size: 1900x872 / dpi: 72px/inch
+Build the static site:
 
+```bash
+npm run build
+```
 
-## Thanks!
+The generated site is written to `_site/`.
 
-This blog is based on the official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+## Content
+
+Published posts live in `_posts/`. Drafts live in `_drafts/` and are ignored by Eleventy.
+
+Posts use explicit destination metadata:
+
+```yaml
+destination: japan
+```
+
+Destination labels and URLs are configured in `_data/destinations.json`. Destination listing pages are generated from `destinations.njk`.
+
+## Deployment
+
+The site can be deployed to Cloudflare Pages.
+
+Recommended Cloudflare Pages settings:
+
+```text
+Framework preset: Eleventy
+Build command: npm run build
+Build output directory: _site
+Root directory: /
+```
+
+For direct upload with Wrangler:
+
+```bash
+npm run build
+npx wrangler pages deploy _site --project-name=<cloudflare-pages-project-name>
+```
+
+## Assets
+
+Header images should be approximately `1900x872` at `72px/inch`.
+
+The site still includes the original Clean Blog CSS/LESS assets. Runtime styles are loaded from `css/clean-blog.css`; keep matching changes in `less/clean-blog.less` when editing theme styles.
+
+## Credits
+
+This blog is based on the Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
